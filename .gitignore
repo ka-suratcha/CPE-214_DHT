@@ -1,0 +1,5 @@
+# Ignore Prettier config
+.prettierrc
+
+# Ignore VS Code settings folder
+.vscode/
