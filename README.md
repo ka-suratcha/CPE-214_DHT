@@ -60,3 +60,6 @@ I decided to build a **temperature and humidity monitoring system** using the **
 
 ### 📍 Pin Allocation
 <img width="2162" height="667" alt="PIN_CPE-214_DHT11" src="https://github.com/user-attachments/assets/332c57e5-f430-42d3-969f-9643c182b8ed" />
+
+### 📸 Real Hardware Setup
+![PIC_CPR-214_DHT-11](https://github.com/user-attachments/assets/a51c5d05-d50d-48d6-967a-8fcc6bbdb403)
