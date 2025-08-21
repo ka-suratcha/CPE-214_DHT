@@ -3,7 +3,7 @@
 ## 📖 Overview
 This project was created as part of **CPE-214: Microprocessor System Laboratory**.  
 
-The goal of this assignment is to use at least two components that were taught in the lab and **one new component** that was not taught in class.
+The goal is to use at least two components that were taught in the lab and **one new component** that was not taught in class.
 
 I decided to build a **temperature and humidity monitoring system** using the **DHT11 sensor** (new component). The system displays the readings on the **on-board LCD** and activates **LEDs and a buzzer** when the temperature goes above a defined level.
 
